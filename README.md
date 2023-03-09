@@ -1,9 +1,21 @@
 ### Hola mi nombre es Maria Suescum  👋
 
-<img width="600"alt="Captura de pantalla 2023-02-03 103714" src="https://user-images.githubusercontent.com/114879421/223498556-54095172-af93-4064-8a4a-1fae772163b5.png">
+
+<img width="600" alt="portada 2" src="https://user-images.githubusercontent.com/114879421/224142910-1007427c-bcc0-4dda-b095-c5e1dfa82cd0.png">
 
 
-##Acerca de mi
+### Acerca de mi 
+
+Como desarrolladora fullstack, tengo habilidades tanto en el desarrollo utilizando tecnologías y herramientas, como HTML, CSS,
+JavaScript, React, Node.js, , SQL, entre otras. en habilidades blandas como comunicacion acertiva y  trabajo en equipo. 
+Cuento con conocimiento de Metodologia Scrum
+
+Me encanta resolver problemas y optimizar el rendimiento de la aplicación tanto en el lado del cliente como en el lado del servidor. 
+Disfruto trabajando en equipo y tengo habilidades en la gestión de versiones y control de código fuente, lo que me permite trabajar en equipo
+de manera eficiente, Esta habilidad me permite crear soluciones personalizadas y altamente eficientes para satisfacer las necesidades de los clientes.
+
+Me siento muy afortunada de poder trabajar en una industria tan emocionante y en constante evolución.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariasuescumg&show_icons=true&theme=tokyonight)
 
