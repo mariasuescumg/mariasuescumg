@@ -6,13 +6,15 @@
 
 ### Acerca de mi 
 
-Como desarrolladora fullstack, tengo habilidades tanto en el desarrollo utilizando tecnologías y herramientas, como HTML, CSS,
+Como desarrolladora junior fullstack, tengo habilidades en el desarrollo utilizando tecnologías y herramientas, como HTML, CSS,
 JavaScript, React, Node.js, , SQL, entre otras. en habilidades blandas como comunicacion acertiva y  trabajo en equipo. 
 Cuento con conocimiento de Metodologia Scrum
 
 Me encanta resolver problemas y optimizar el rendimiento de la aplicación tanto en el lado del cliente como en el lado del servidor. 
 Disfruto trabajando en equipo y tengo habilidades en la gestión de versiones y control de código fuente, lo que me permite trabajar en equipo
 de manera eficiente, Esta habilidad me permite crear soluciones personalizadas y altamente eficientes para satisfacer las necesidades de los clientes.
+
+Siempre estoy abierta a aprender nuevas tecnologías para mantenerme actualizada y competitiva en la industria, mejorar mis habilidades y eficiencia en el trabajo, ser más versátil y adaptable para trabajar en diferentes proyectos y equipos.
 
 Me siento muy afortunada de poder trabajar en una industria tan emocionante y en constante evolución.
 
